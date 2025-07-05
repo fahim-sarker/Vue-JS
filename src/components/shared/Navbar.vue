@@ -65,7 +65,7 @@ function closeMenu() {
         <!-- Menu -->
         <ul
           :class="[
-            'fixed top-0 right-0 h-full w-64 p-5 z-50 flex flex-col gap-y-6 transition-transform duration-300 ease-in-out',
+            'fixed top-0 right-0 h-full w-64 p-5 z-50 flex flex-col gap-y-6 transition-transform duration-500 ease-in-out',
             menuOpen ? 'translate-x-0' : 'translate-x-full',
             'lg:static lg:flex lg:flex-row lg:items-center lg:h-auto lg:w-auto lg:bg-transparent lg:translate-x-0 lg:py-0 lg:gap-x-10',
             menuOpen

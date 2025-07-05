@@ -17,12 +17,10 @@ export default {
       >
         Welcome to Vue Js Home Page
       </h1>
-
       <p class="text-gray-300 text-center py-5">
         This is the home page content. You can put any description or intro text
         here that explains your project or app.
       </p>
-
       <button
         class="bg-gradient-to-r from-purple-500 to-pink-500 text-white px-8 py-3 text-2xl font-semibold cursor-pointer rounded-md hover:opacity-90 transition"
       >
